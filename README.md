@@ -161,3 +161,12 @@ Este proyecto utiliza .NET Core 3.1 que ya no tiene soporte oficial (EOL: Diciem
 
 ---
 ⭐ Si este proyecto te fue útil, considera darle una estrella!
+
+---
+
+## Support this project
+
+Free, and maintained on my own time. If it saved you a weekend of work, you can
+[sponsor me on GitHub](https://github.com/sponsors/jefrnc).
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-jefrnc-EA4AAA?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/jefrnc)
